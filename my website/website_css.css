@@ -1,0 +1,16 @@
+@charset "utf-8";
+#page{
+border:1px solid black;
+height:auto;
+width:auto;
+margin:auto;
+}
+#header{
+background-color:grey;
+weidth:100%;
+height:150px;
+text-align:center;
+color:white;
+padding:10px;
+}
+
